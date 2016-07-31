@@ -7,7 +7,7 @@ up a zip file that you've emailed to yourself:
 
 ```
 cd ~/Desktop
-git clone https://github.com/meet-projects/y2-js-lab
+git clone https://github.com/meet-projects/y2-js-lab1
 ```
 
 In the terminal, run the code to set up Python (you need this because the web server
