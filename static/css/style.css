@@ -1,0 +1,15 @@
+body {
+    font-size: 150%;
+    font-family: sans-serif;
+}
+textarea {
+    font-size: 150%;
+    font-family: sans-serif;
+}
+button {
+    font-size: 150%;
+    font-family: sans-serif;
+}
+div {
+    margin: 50px;
+}
