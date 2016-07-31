@@ -1,4 +1,4 @@
-# JavaScript lab 1: interactive demo
+# JavaScript lab 1
 
 In this lab, you'll write some basic JavaScript.
 
