@@ -19,7 +19,7 @@ source MEETpythonY2
 ```
 
 Now, run the web server. Make sure you use `cd` to move to the
-`y2-js-lab` folder first!
+`y2-js-lab1` folder first!
 
 ```
 python web_app.py
@@ -36,6 +36,9 @@ you'll be typing some of your code into the console, and putting some of it in
 `static/js/script.js`.
 
 This is the same way you should organize your code for your final projects!
+
+Remember that if you're trying to debug your code, you need to open the console
+(Ctrl+Shift+J) to see any error messages.
 
 # Exercise 1
 
